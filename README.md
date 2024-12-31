@@ -2,9 +2,14 @@
 
 안녕하세요! 저는 **김나현**입니다. 제 포트폴리오를 확인해보세요. 다양한 프로젝트와 작업물을 소개합니다.
 
----
+# 📞 Contact
 
-## 📂 Projects
+제가 작업한 프로젝트나 제 소개가 마음에 드시면 언제든지 연락주세요!
+
+- **이메일**: [jenny0549@naver.com](mailto:jenny0549@naver.com)
+- **GitHub**: [github.com/NahyeonKim02](https://github.com/NahyeonKim02)
+
+# 📂 Projects
 
 ### 프로젝트 1: 웹사이트 만들기
 
@@ -26,26 +31,28 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-저는 **프론트엔드 개발자**로 다양한 웹 기술을 다루고 있습니다. 항상 새로운 기술을 배우고 발전하는 것을 즐깁니다.
+저는 **프론트엔드 개발자**로 다양한 웹 기술을 다루고 있습니다. 항상 새로운 기술을 배우고 발전하 것을 즐깁니다.
 
-- **이메일**: [jenny0549@naver.com](mailto:jenny0549@naver.com)
-- **GitHub**: [github.com/NahyeonKim02](https://github.com/NahyeonKim02)
+## Education
+- ```2021.03. ~ 2025.02.``` B.S. in School of Accounting / Business Admistration (DS track), The Catholic University of Korea
 
----
+## Internships
+## ExtraCurricular Activity
+## Interests
+## Challenge
+## 🎨 Skills
+- **Programming** Python, C, SPSS
+- **Deep Learning** Skicit-learn, PyTorch, Keras, TensorFlow
+- **Data Analysis** Numpy, Pandas, Matplotlib, Seaborn
+- **Visualization & ETC** Excel, Power BI, Orange 3
+- **Database** SQL, Access
 
-## 🎨 Tool
+## Others
+**English Proficiency**
+- 2024.11. - OPIc IM2
 
-- **프론트엔드**: HTML, CSS, JavaScript, React
-- **백엔드**: Node.js, Express
-- **데이터베이스**: MySQL, MongoDB
-- **기타**: Git, Docker, CI/CD
-
----
-
-## 📞 Contact
-
-제가 작업한 프로젝트나 제 소개가 마음에 드시면 언제든지 연락주세요!
-
-- **이메일**: [jenny0549@naver.com](mailto:jenny0549@naver.com)
+**Certification**
+- 2024.08. - SQLD
+- 2024.12. - Certified Accounting Manager (CAM)
