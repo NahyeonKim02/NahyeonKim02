@@ -17,53 +17,41 @@
 
 ## 🗂️ Projects
 
-**Project 1: COVID-19 전후에 따른 국제선박무역 추이** ```2022.10.~2022.12.```
-
+**Project 1: [COVID-19 전후에 따른 국제선박무역 추이](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)** ```2022.10.~2022.12.```
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
 - **Programming Languages**: Python
 - **Stacks**: Numpy, Pandas, Matplotlib, Skicit-learn
 - **Tools**: Jupyter notebook, Excel
-- [https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)
 
-**Project 2: 이커머스 고객세분화분석 아이디어 경진대회 🏆1차** ```2024.02.~2024.04.```
-
+**Project 2: [이커머스 고객세분화분석 아이디어 경진대회 🏆1차](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)** ```2024.02.~2024.04.```
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
 - **Programming Languages**: Python
 - **Stacks**: Numpy, Pandas, Matplotlib, Skicit-learn
 - **Tools**: Jupyter notebook, Excel
-- [https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)
 
-**Project 3: 장애인 콜택시 이용 현황 분석** ```2024.04.~2024.06.```
-
+**Project 3: [장애인 콜택시 이용 현황 분석](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)** ```2024.04.~2024.06.```
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
 - **Programming Languages**: Python
 - **Stacks**: Numpy, Pandas, Matplotlib, Skicit-learn
 - **Tools**: Jupyter notebook, Excel
-- [https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)
 
-**Project 4: 호텔 예약 취소 예측** ```2024.10.~2024.12.```
-
+**Project 4: [호텔 예약 취소 예측](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)** ```2024.10.~2024.12.```
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
 - **Programming Languages**: Python
 - **Stacks**: Numpy, Pandas, Matplotlib, Skicit-learn
 - **Tools**: Jupyter notebook, Excel
-- [https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)
 
-**Project 5: 삼성전자 주가 예측 분석** ```2024.10.~2024.11.```
-
+**Project 5: [삼성전자 주가 예측 분석](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)** ```2024.10.~2024.11.```
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
 - **Programming Languages**: Python
 - **Stacks**: Numpy, Pandas, Matplotlib, Skicit-learn
 - **Tools**: Jupyter notebook, Excel
-- [https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)
 
-**Project 6: VGG16 정확도 높이기** ```2024.11.~2024.12.```
-
+**Project 6: [VGG16 정확도 높이기](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)** ```2024.11.~2024.12.```
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
 - **Programming Languages**: Python
 - **Stacks**: Numpy, Pandas, Matplotlib, Skicit-learn
 - **Tools**: Jupyter notebook, Excel
-- [https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)
 
 ## 📂 Additional projects
 If you want to see more information about me, here is my [CV📥](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction).
