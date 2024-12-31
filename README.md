@@ -7,14 +7,23 @@
 - **E-mail**: [jenny0549@naver.com](mailto:jenny0549@naver.com)
 - **GitHub**: [github.com/NahyeonKim02](https://github.com/NahyeonKim02)
 
+**📚 Stacks**
+- Numpy, Pandas, Matplotlib
+- Skicit-learn, PyTorch, Keras, TensorFlow
+
+**🛠️ Tools**
+- Google Colab, Jupyter notebook, Anaconda
+- Excel, Access, Power BI, Orange 3
 
 ## 🗂️ Projects
 
-### 프로젝트 1: 웹사이트 만들기
+### Project 1: 호텔 예약 취소 예측
 
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
-- **기술 스택**: HTML, CSS, JavaScript
-- [프로젝트 링크](https://github.com/NahyeonKim02/project1)
+- **Programming Languages**: Python
+- **Stacks**: Numpy, Pandas, Matplotlib, Skicit-learn
+- **Tools**: Jupyter notebook, Excel
+- [https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)
 
 ### 프로젝트 2: 데이터 분석
 
@@ -36,7 +45,7 @@
 
 
 ## 🎨 Skills
-**💻 Programming**
+**💻 Programming Languages**
 - Python, SQL, C, SPSS
 
 **📚 Stacks**
