@@ -7,13 +7,6 @@
 - **E-mail**: [jenny0549@naver.com](mailto:jenny0549@naver.com)
 - **GitHub**: [github.com/NahyeonKim02](https://github.com/NahyeonKim02)
 
-**📚 Stacks**
-- Numpy, Pandas, Matplotlib
-- Skicit-learn, PyTorch, Keras, TensorFlow
-
-**🛠️ Tools**
-- Google Colab, Jupyter notebook, Anaconda
-- Excel, Access, Power BI, Orange 3
 
 ## 📊 Projects
 
@@ -53,8 +46,10 @@
 - **Stacks**: Numpy, Pandas, Matplotlib, Skicit-learn
 - **Tools**: Jupyter notebook, Excel
 
+
 ## 🗂️ Additional projects
 If you want to see more information about me, here is my [CV📥](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction).
+
 
 ## 🔭 About Me
 
