@@ -16,7 +16,7 @@
 - **Stacks**: Numpy, Pandas, Matplotlib, Skicit-learn
 - **Tools**: Jupyter notebook, Excel
 
-**Project 2: [이커머스 고객세분화분석 아이디어 경진대회 🏆1차](https://dacon.io/competitions/official/236222/codeshare/9796)** ```2024.02.~2024.04.``` 
+**Project 2: [이커머스 고객세분화분석 아이디어 경진대회 🏆1차 (13/55)](https://dacon.io/competitions/official/236222/codeshare/9796)** ```2024.02.~2024.04.``` 
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다. [DACON overview](https://dacon.io/competitions/official/236222/overview/description)
 - **Programming Languages**: Python
 - **Stacks**: Numpy, Pandas, Matplotlib, Skicit-learn
