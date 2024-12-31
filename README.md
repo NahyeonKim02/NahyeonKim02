@@ -43,8 +43,6 @@
 - **기타**: Git, Docker, CI/CD
 
 ---
-npm install
-npm start
 
 ## 📞 Contact
 
