@@ -1,12 +1,14 @@
-# Portfolio
+# 📌 Portfolio
 
-안녕하세요! **김나현**입니다. 다양한 프로젝트와 작업물을 소개합니다.
+안녕하세요! 항상 새로운 기술을 배우고 발전하는 것을 즐기는 **김나현**입니다.
+다양한 프로젝트와 작업물을 소개합니다.
 
-## 📞 Contact
+## 📫 Contact
 - **E-mail**: [jenny0549@naver.com](mailto:jenny0549@naver.com)
 - **GitHub**: [github.com/NahyeonKim02](https://github.com/NahyeonKim02)
 
-## 📂 Projects
+
+## 🗂️ Projects
 
 ### 프로젝트 1: 웹사이트 만들기
 
@@ -26,30 +28,30 @@
 - **기술 스택**: Python, Scikit-learn, TensorFlow
 - [프로젝트 링크](https://github.com/NahyeonKim02/project3)
 
----
 
-## 👨‍💻 About Me
+## 🔭 About Me
 
-저는 **프론트엔드 개발자**로 다양한 웹 기술을 다루고 있습니다. 항상 새로운 기술을 배우고 발전하 것을 즐깁니다.
+### 🧑‍🎓 Education
+- B.S. in School of Accounting / Business Admistration (DS track), The Catholic University of Korea ```2021.03. ~ 2025.02.``` 
 
-## Education
-- ```2021.03. ~ 2025.02.``` B.S. in School of Accounting / Business Admistration (DS track), The Catholic University of Korea
 
-### Internships
-### ExtraCurricular Activity
-### Interests
-### Challenge
-### 🎨 Skills
-- **Programming** Python, C, SPSS
-- **Deep Learning** Skicit-learn, PyTorch, Keras, TensorFlow
-- **Data Analysis** Numpy, Pandas, Matplotlib, Seaborn
-- **Visualization & ETC** Excel, Power BI, Orange 3
-- **Database** SQL, Access
+## 🎨 Skills
+**💻 Programming**
+- Python, SQL, C, SPSS
 
-### Others
-**English Proficiency**
-- 2024.11. - OPIc IM2
+**📚 Stacks**
+- Numpy, Pandas, Matplotlib
+- Skicit-learn, PyTorch, Keras, TensorFlow
 
-**Certification**
-- 2024.08. - SQLD
-- 2024.12. - Certified Accounting Manager (CAM)
+**🛠️ Tools**
+- Google Colab, Jupyter notebook, Anaconda
+- Excel, Access, Power BI, Orange 3
+
+
+## 🪪 Certification
+**🔠 English Proficiency**
+- ```2024.11.```  OPIc IM2
+
+**💳 Others**
+- ```2024.08.```  SQLD
+- ```2024.12.```  Certified Accounting Manager (CAM)
