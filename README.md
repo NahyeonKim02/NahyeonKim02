@@ -15,7 +15,7 @@
 - Google Colab, Jupyter notebook, Anaconda
 - Excel, Access, Power BI, Orange 3
 
-## 🗂️ Projects
+## 📊 Projects
 
 **Project 1: [COVID-19 전후에 따른 국제선박무역 추이](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)** ```2022.10.~2022.12.```
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
@@ -53,7 +53,7 @@
 - **Stacks**: Numpy, Pandas, Matplotlib, Skicit-learn
 - **Tools**: Jupyter notebook, Excel
 
-## 📂 Additional projects
+## 🗂️ Additional projects
 If you want to see more information about me, here is my [CV📥](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction).
 
 ## 🔭 About Me
