@@ -31,7 +31,7 @@
 **Project 4: [호텔 예약 취소 예측](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)** ```2024.10.~2024.12.```
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
 - **Programming Languages**: Python
-- **Stacks**: Numpy, Pandas, Matplotlib, Skicit-learn
+- **Stacks**: Numpy, Pandas, Matplotlib, Skicit-learn, Imbalanced-learn
 - **Tools**: Jupyter notebook, Excel
 
 **Project 5: [삼성전자 주가 예측 분석](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)** ```2024.10.~2024.11.```
