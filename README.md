@@ -41,10 +41,11 @@
 - **Tools**: Google Colab, Jupyter notebook, Excel
 
 **Project 6: [VGG16 정확도 높이기](https://github.com/NahyeonKim02/Increase-VGG16-Accuracy)** ```2024.11.~2024.12.```
-- 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
+- 설명: Roboflow의 꽃 이미지 데이터를 이용하여 VGG16 모델의 정확도를 높이는 프로젝트입니다. [CODE](https://colab.research.google.com/drive/1SoADC3YQ4x0CbLfskJmx-ix9w0TxPplH?usp=sharing)
+  성능은 Accuracy, F1 Score으로 측정하였으며, Early Stopping과 StepLR을 활용하여 정확도를 높이고자 하였습니다.
 - **Programming Languages**: Python
-- **Stacks**: NumPy, Pandas, Matplotlib, Skicit-learn
-- **Tools**: Google Colab, Jupyter notebook, Excel
+- **Stacks**: NumPy, Matplotlib, Skicit-learn, torch, torchvision, PIL, glob, os
+- **Tools**: Google Colab
 
 
 ## 🗂️ Additional projects
