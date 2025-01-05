@@ -26,7 +26,7 @@
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
 - **Programming Languages**: Python
 - **Stacks**: NumPy, Pandas, Matplotlib, Skicit-learn
-- **Tools**: Jupyter notebook, Excel
+- **Tools**: Google Colab, Jupyter notebook, Excel
 
 **Project 4: [호텔 예약 취소 예측](https://github.com/NahyeonKim02/Hotel-Reservation-Cancellation-Prediction)** ```2024.10.~2024.12.```
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
@@ -38,13 +38,13 @@
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
 - **Programming Languages**: Python
 - **Stacks**: NumPy, Pandas, Matplotlib, Skicit-learn
-- **Tools**: Jupyter notebook, Excel
+- **Tools**: Google Colab, Jupyter notebook, Excel
 
 **Project 6: [VGG16 정확도 높이기](https://github.com/NahyeonKim02/Increase-VGG16-Accuracy)** ```2024.11.~2024.12.```
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
 - **Programming Languages**: Python
 - **Stacks**: NumPy, Pandas, Matplotlib, Skicit-learn
-- **Tools**: Jupyter notebook, Excel
+- **Tools**: Google Colab, Jupyter notebook, Excel
 
 
 ## 🗂️ Additional projects
