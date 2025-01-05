@@ -11,10 +11,15 @@
 ## 📊 Projects
 
 **Project 1: [COVID-19 전후에 따른 국제선박무역 추이](https://github.com/NahyeonKim02/Trends-in-International-Ship-Trade-before-and-after-COVID-19)** ```2022.10.~2022.12.```
-- 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
+- 설명: 2020~2021년 선박 입출항 데이터를 이용하여 COVID-19 전후에 따른 국제선박무역 추이를 분석한 프로젝트입니다. 분석한 사항은 다음과 같습니다.
+  - 항명별 입출항횟수와 비율 [막대형, 파이형 그래프]
+  - 연도와 입출 [막대형 그래프]
+  - 입출별 총톤수 [박스플롯]
+  - 선박용도별 입항/출항횟수와 비율 [막대형, 파이형 그래프]
+  - <부록> 입출항횟수와 총톤수 [산점도]
 - **Programming Languages**: Python
-- **Stacks**: NumPy, Pandas, Matplotlib, Skicit-learn
-- **Tools**: Jupyter notebook, Excel
+- **Stacks**: NumPy, Pandas, Matplotlib
+- **Tools**: Jupyter notebook
 
 **Project 2: [이커머스 고객세분화분석 아이디어 경진대회 🏆1차 (13/55)](https://dacon.io/competitions/official/236222/codeshare/9796)** ```2024.02.~2024.04.``` 
 - 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다. [DACON overview](https://dacon.io/competitions/official/236222/overview/description)
@@ -35,10 +40,10 @@
 - **Tools**: Jupyter notebook, Excel
 
 **Project 5: [삼성전자 주가 예측 분석](https://github.com/NahyeonKim02/Samsung-Electronics-Stock-Price-Prediction)** ```2024.10.~2024.11.```
-- 설명: 이 프로젝트는 HTML, CSS, JavaScript로 만든 웹사이트입니다.
+- 설명: 삼성전자 주가 데이터를 이용한 주가예측, 알고리즘 간 성능 차이를 분석한 프로젝트입니다. LSTM, RNN, GRU 간 예측 정확도 차이를 분석하였습니다.
 - **Programming Languages**: Python
-- **Stacks**: NumPy, Pandas, Matplotlib, Skicit-learn
-- **Tools**: Google Colab, Jupyter notebook, Excel
+- **Stacks**: NumPy, Pandas, Matplotlib, Tensorflow, Keras, LSTM, SimpleRNNCell, GRUCell
+- **Tools**: Jupyter notebook
 
 **Project 6: [VGG16 정확도 높이기](https://github.com/NahyeonKim02/Increase-VGG16-Accuracy)** ```2024.11.~2024.12.```
 - 설명: Roboflow의 꽃 이미지 데이터를 이용하여 VGG16 모델의 정확도를 높이는 프로젝트입니다.
