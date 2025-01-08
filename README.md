@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dea9b90f-aefc-4b36-842e-923b3b6aa8d5)
+![ai-generated-9120342_640](https://github.com/user-attachments/assets/50ebe73e-660b-4776-86fc-b6b858930e00)
 # 📌 Portfolio
 안녕하세요! 항상 새로운 기술을 배우고 발전하는 것을 즐기는 **김나현**입니다.
 다양한 프로젝트와 작업물을 소개합니다.
