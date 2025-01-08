@@ -60,7 +60,7 @@ If you want to see more information about me, here is my [CV📥](https://github
 ## 🔭 About Me
 
 **🧑‍🎓 Education**
-- B.S. in School of Accounting / Business Admistration (DS track), The Catholic University of Korea ```2021.03. ~ 2025.02.``` 
+- B.A. in School of Accounting / Business Admistration (DS track), The Catholic University of Korea ```2021.03. ~ 2025.02.``` 
 
 
 ## 🎨 Skills
