@@ -1,7 +1,10 @@
 ![ai-generated-9120342_1280_1](https://github.com/user-attachments/assets/36380bee-da14-4856-ba32-e40ce94ea2c7)
 # 📌 Portfolio
 안녕하세요! 항상 새로운 기술을 배우고 발전하는 것을 즐기는 **김나현**입니다.
-다양한 프로젝트와 작업물을 소개합니다.
+
+**SAP 활용 및 개발, 데이터 분석 및 활용**에 관심이 있으며 관련 프로젝트와 수상경험이 다수 있습니다. 주로 **FI/CO 모듈, 미래예측**에 흥미를 가지고 있습니다.
+
+제 다양한 프로젝트와 작업물을 소개합니다.
 
 ## 📫 Contact
 - **E-mail**: [jenny0549@naver.com](mailto:jenny0549@naver.com)
